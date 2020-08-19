@@ -4,7 +4,7 @@ This repo comprises of projects completed in the Risk and Fraud Analytics course
 
 ## Fraud Detection Game
 
-The main purpose of this game was to generate a fraud detection model for an anonymized dataset, whilst obtaining at least a **KS** = **0.4202** and **GINI** = **0.5234** to obtain the maximum possible 10/10 score.
+The main purpose of this game was to generate a fraud detection model for Peruvian with anonymized data, whilst obtaining at least a **KS** = **0.4202** and **GINI** = **0.5234** to obtain the maximum possible 10/10 score.
 
 The entire fraud modelling methodology is outlined in `MarangMutloatse_LogBook_RiskGame.pdf` but some noteworthy modelling takeaways are summarised below.
 
